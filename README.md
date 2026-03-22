@@ -15,7 +15,6 @@
 ## ✨ Features
 * **OOP Architecture:** Heavily utilizes classes, encapsulation, and state management to handle grid logic and Tetromino behavior.
 * **Modern C++:** Built utilizing strict C++17 standards and the latest SFML 3 API.
-* **Hardware Accelerated:** CPU-optimized compilation (`-march=native`) for maximum performance on any machine.
 * **Classic Mechanics:** Full piece rotation, hard drops, and dynamic line-clearing logic.
 
 ## ⌨️ Controls

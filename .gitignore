@@ -1,0 +1,17 @@
+# -------------------------------------------------------------------------
+# Tetris FAST Edition .gitignore
+# -------------------------------------------------------------------------
+
+# CMake Build Directory
+build/
+
+# Compiled Object Files
+*.o
+
+# Old Binaries
+game_build
+
+# OS and Editor Junk
+.vscode/
+.idea/
+.DS_Store

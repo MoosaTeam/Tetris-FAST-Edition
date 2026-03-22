@@ -28,4 +28,4 @@
 
 ## 👤 Developer
 
-* **[Your Name]** - Sole developer. This game was built from scratch as a solo project for my 2nd-semester Object-Oriented Programming (OOP) course.
+* **Muhammad Moosa** - Sole developer. This game was built from scratch as a solo project for my 2nd-semester Object-Oriented Programming (OOP) course.
